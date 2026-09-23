@@ -1,6 +1,6 @@
 # AI-Powered Genomics for Ehlers-Danlos Syndrome Research
 
-A practical learning toolkit for applying AI/ML to genomics research, with a focus on Ehlers-Danlos Syndrome (EDS) — built for an AWS Solutions Architect with biology/chemistry background.
+I'm on a mission to help my husband and my sons as my husband is diagnosed with Ehlers-Danlos Sundrom, and most likely my sons have it too. Therefore I  created a practical learning toolkit for applying AI/ML to genomics research, with a focus on Ehlers-Danlos Syndrome (EDS) — built for an AWS Solutions Architect with basic biology/chemistry background.
 
 ## 📁 Contents
 
