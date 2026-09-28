@@ -48,6 +48,3 @@ open eds_genomics_study_plan.md
 
 HealthOmics (Workflows, Stores) · SageMaker · Bedrock AgentCore · Athena · Neptune · S3 · Lambda · QuickSight · HealthLake · Clean Rooms
 
-## 📅 Created
-
-September 2026 — Generated with Amazon Quick
